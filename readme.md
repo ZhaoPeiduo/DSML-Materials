@@ -4,4 +4,8 @@ The cheatsheets will be shared in pdf format. If you want to have access to the 
 
 AY2024/25 Sem 1
 - DSA5105: Midterm, final cheatsheets, self practice questions, project notebook (as an estimation of effort for those taking this mod later, score 15/15)
-- DSA5205
+- DSA5205: Condensed content from lecture slides.
+
+AY2024/25 Sem 2
+- DSA5103
+- CS5228
