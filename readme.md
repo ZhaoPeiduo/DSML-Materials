@@ -19,6 +19,6 @@ AY2025/26 Sem 1
 
 AY2025/26 Sem 2 onwards
 - DSA5106
-- DSA5202 / DSA5209
+- DSA5203 (Hearsay no recording)
 - DSA5201
 
